@@ -5,6 +5,6 @@ Pnwdiving is built on Angular, Firestore, custom google maps and other cool tech
 
 In the future, we may expose the backlog here for your input! 
 
-Contact us via @pnwdiving on insta for the fastest response
+Contact us via @pnwdiving on insta or eric on facebook for the fastest response
 
 

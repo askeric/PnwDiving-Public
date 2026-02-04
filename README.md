@@ -1,5 +1,5 @@
 # PnwDiving-Public
-Welcome to pnwdiving.com public repository!
+Welcome to the pnwdiving.com public repository!
 
 You may post bugs/requests/discussions here
 

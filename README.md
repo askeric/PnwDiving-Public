@@ -1,7 +1,7 @@
 # PnwDiving-Public
 Welcome to the pnwdiving.com public repository!
 
-You may post bugs/requests/discussions here
+You may post bugs/requests/discussions here (use the issues or discussions tab at the top)
 
 The code for pnwdiving.com is in a private repository.  Contact us for the private repo perms.
 
